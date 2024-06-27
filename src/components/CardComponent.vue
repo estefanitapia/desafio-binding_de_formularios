@@ -13,7 +13,7 @@
         <label>Chip SRC: </label>
         <select v-model="chipSRC" class="form-select" aria-label="Default select example">
           <option selected disabled>Selecciona una opción</option>
-          <option value="./assets/chip.png">Chip</option>
+          <option value="./assets/imgs/chip.png">Chip</option>
         </select>
       </div>
 
@@ -36,7 +36,7 @@
         <label>Tipo de tarjeta SRC: </label>
         <select v-model="tipoTarjeta" class="form-select" aria-label="Default select example">
           <option selected disabled>Selecciona una opción</option>
-          <option value="./assets/visa.png">Visa</option>
+          <option value="./assets/imgs/visa.png">Visa</option>
         </select>
       </div>
     </form>
