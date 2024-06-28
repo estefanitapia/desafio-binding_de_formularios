@@ -10,7 +10,3 @@ llenado dinámico de los datos de una tarjeta de crédito.
 3. Crear las variables del estado correspondiente a la información de la tarjeta.
 4. Enlazar las rutas de las imágenes usando el binding unidireccional en el atributo src.
 
-
-### Desarrollador: 
-
-Estefani Tapia.
